@@ -2,11 +2,11 @@ import os
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = ""
-GDRIVE_FOLDER_ID = ""
-OWNER_ID = 123455673
+BOT_TOKEN = "1386889761:AAHkaIYloSQx7fLYlX459VvcCGQLRGVal0E"
+GDRIVE_FOLDER_ID = "0AGkpbJZyyYMZUk9PVA"
+OWNER_ID = 310260910
 # Example: OWNER_ID = 619418070
-INDEX_URL = ""
+INDEX_URL = "https://xpainteamdrive.albinmaniparambil.workers.dev"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
